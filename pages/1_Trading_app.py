@@ -9,7 +9,7 @@ We provide the most efficient platform to help you gather all essential informat
 """)
 
 # Display Image
-st.image("/Users/aniket/Documents/DA/S&P500/pages/app.webp", use_container_width=True)
+st.image("pages/app.webp", use_container_width=True)
 
 st.markdown("---")
 
