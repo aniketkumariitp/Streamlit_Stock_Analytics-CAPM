@@ -8,6 +8,6 @@ Pillow
 statsmodels
 scikit-learn
 python-dateutil
-pandas-ta
+ta
 requests
 lxml
