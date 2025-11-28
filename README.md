@@ -316,10 +316,6 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 
 ### ⭐ If you find this project helpful, please give it a star! ⭐
 
-[![GitHub Stars](https://img.shields.io/github/stars/aniketkumariitp/stock-analysis-dashboard?style=social)](https://github.com/aniketkumariitp/stock-analysis-dashboard/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/aniketkumariitp/stock-analysis-dashboard?style=social)](https://github.com/aniketkumariitp/stock-analysis-dashboard/network/members)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stocksanalyticscapm.streamlit.app/)
-
 Made with ❤️ by [Aniket Kumar](https://github.com/aniketkumariitp)
 
 </div>
