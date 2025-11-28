@@ -2,6 +2,9 @@
 
 A comprehensive Streamlit-based web application for stock market analysis, technical indicators visualization, and price prediction using ARIMA models.
 
+
+![App Preview](pages/app.webp)
+
 ## 🚀 Live Demo
 
 **[Launch Application](https://stocksanalyticscapm.streamlit.app/)** 🔗
@@ -57,15 +60,15 @@ Try the live application deployed on Streamlit Cloud!
 ![Stock Analysis Dashboard](https://github.com/user-attachments/assets/23e3fd16-3644-4f92-8966-728e1caa89ab)
 *Real-time stock data with historical performance and interactive controls*
 
-### Price Prediction
+### CAPM Analysis
 ![Price Prediction](https://github.com/user-attachments/assets/4d5d1c56-cd34-4b3a-8898-16fde74671ec)
 *30-day forecast with ARIMA model and RMSE evaluation*
 
-### Stock Comparison
+### Stock Analysis
 ![Stock Comparison](https://github.com/user-attachments/assets/e25a23e4-9914-4912-a8eb-690b8e254f3f)
 *Side-by-side comparison of multiple stocks with normalization*
 
-### CAPM Analysis
+### Price Prediction
 ![CAPM Analysis](https://github.com/user-attachments/assets/d0b140ff-019b-4101-ab60-a403f8872d6d)
 *Capital Asset Pricing Model with multi-stock selection*
 
